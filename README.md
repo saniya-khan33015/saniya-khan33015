@@ -1,4 +1,3 @@
-![gitartwork](gitartwork.svg)
 
 # 💫 Hi 👋, I'm Saniya Khan
 **A passionate Software Developer**
