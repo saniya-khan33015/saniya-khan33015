@@ -1,6 +1,6 @@
 ![gitartwork](gitartwork.svg)
 
-# 💫 Hi 👋, I'm Saniya Yadav
+# 💫 Hi 👋, I'm Saniya Khan
 **A passionate Software Developer**
 
 Email Me 👉 ✉️ **khansaniya33015@gmail.com** For Collaboration/Project or Anything Else. 😊😊
