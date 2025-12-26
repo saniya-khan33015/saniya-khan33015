@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **khansaniya33015@gmail.com** For Collaboration/Project or 
 - 😄 **Pronouns: Saniya
   
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saniya-khan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khansaniya33015@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saniya-khan-9204aa299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khansaniya33015@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
