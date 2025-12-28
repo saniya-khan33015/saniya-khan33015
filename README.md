@@ -33,10 +33,6 @@ Email Me 👉 ✉️ **khansaniya33015@gmail.com** For Collaboration/Project or 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saniya-khan33015&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 ###
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
